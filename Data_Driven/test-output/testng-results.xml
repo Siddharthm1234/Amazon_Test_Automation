@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="38801" started-at="2020-11-19T13:22:17Z" finished-at="2020-11-19T13:22:56Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="38801" started-at="2020-11-19T13:22:17Z" finished-at="2020-11-19T13:22:56Z">
+      <class name="test.SearchItemTest">
+        <test-method status="PASS" signature="initialisation()[pri:0, instance:test.SearchItemTest@3cb5cdba]" name="initialisation" is-config="true" duration-ms="6" started-at="2020-11-19T18:52:17Z" finished-at="2020-11-19T18:52:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialisation -->
+        <test-method status="PASS" signature="test(java.lang.String, java.lang.String)[pri:0, instance:test.SearchItemTest@3cb5cdba]" name="test" duration-ms="9760" started-at="2020-11-19T18:52:18Z" data-provider="search" finished-at="2020-11-19T18:52:28Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[plates]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:test.SearchItemTest@3cb5cdba]" name="teardown" is-config="true" duration-ms="635" started-at="2020-11-19T18:52:28Z" finished-at="2020-11-19T18:52:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method status="PASS" signature="test(java.lang.String, java.lang.String)[pri:0, instance:test.SearchItemTest@3cb5cdba]" name="test" duration-ms="8210" started-at="2020-11-19T18:52:28Z" data-provider="search" finished-at="2020-11-19T18:52:37Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[ps4]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:test.SearchItemTest@3cb5cdba]" name="teardown" is-config="true" duration-ms="637" started-at="2020-11-19T18:52:37Z" finished-at="2020-11-19T18:52:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method status="PASS" signature="test(java.lang.String, java.lang.String)[pri:0, instance:test.SearchItemTest@3cb5cdba]" name="test" duration-ms="9460" started-at="2020-11-19T18:52:37Z" data-provider="search" finished-at="2020-11-19T18:52:47Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[books]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:test.SearchItemTest@3cb5cdba]" name="teardown" is-config="true" duration-ms="649" started-at="2020-11-19T18:52:47Z" finished-at="2020-11-19T18:52:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method status="PASS" signature="test(java.lang.String, java.lang.String)[pri:0, instance:test.SearchItemTest@3cb5cdba]" name="test" duration-ms="8359" started-at="2020-11-19T18:52:47Z" data-provider="search" finished-at="2020-11-19T18:52:56Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[phone]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:test.SearchItemTest@3cb5cdba]" name="teardown" is-config="true" duration-ms="641" started-at="2020-11-19T18:52:56Z" finished-at="2020-11-19T18:52:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- test.SearchItemTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
